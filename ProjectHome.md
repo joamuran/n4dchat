@@ -1,0 +1,1 @@
+Classroom chat to show how to implement n4d plugins.
